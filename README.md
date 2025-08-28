@@ -1,7 +1,6 @@
 # 🏔️ Engineering Excellence
 
-Pursuing mechanical engineering fundamentals while orchestrating desktop refurbishment projects with meticulous performance optimization. Currently exploring the intersection of hardware architecture and computational efficiency through hands-on system enhancement. When not immersed in technical pursuits, I find solace conquering mountain peaks—each ascent a testament to methodical preparation and unwavering determination.
-
+ I am pursuing mechanical engineering while currently refurbishing my deskdop computer. I currently work at fedex ground pursuing a operations manager position on the side of my college education. I also enjoy mountaineering, primarily hiking in the adirondack mountains but hoping to explore more. 
 
 <!--
 **Julyansapp1113/Julyansapp1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
