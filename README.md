@@ -1,3 +1,4 @@
+![Easter Egg](1756353208491-0c1ee582-03b2-4919-9f03-6bbdafca45cd.png)
 # 🏔️ Engineering Excellence
 
  I am pursuing mechanical engineering while currently refurbishing my deskdop computer. I currently work at fedex ground pursuing a operations manager position on the side of my college education. I also enjoy mountaineering, primarily hiking in the adirondack mountains but hoping to explore more. 
